@@ -1,0 +1,25 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "Joao Pereira",
+      "services": ["Jardineiro"],
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/commons.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit "
+    },
+    {
+      "id": 2,
+      "name": "Claudio Sebastiao",
+      "services": ["Professor de matematica"],
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/commons.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit "
+    },
+    {
+      "id": 3,
+      "name": "Alexandre Silva",
+      "services": ["Encanador"],
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/commons.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    }
+  ]
+}
