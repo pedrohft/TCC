@@ -1,0 +1,13 @@
+//criar um servico
+POST / HTTP/1.1
+
+{
+ 
+  "id": "45AaA534146",
+  "specific_service": ["Diarista"],
+  "name": "Limpeza",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons.png",
+  "created_at": Date,
+  "updated_at": Date
+    
+}
